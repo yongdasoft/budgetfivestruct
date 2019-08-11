@@ -5,5 +5,6 @@
 # zip文件的文件列表
 ### struct 工程的结构文件，内包含每个节点，分部分项，技术措施，费用表的json 索引文件名。
 
-https://github.com/yongdasoft/budgetfivestruct/blob/master/struct.png?raw=true
+
+![image.png](https://github.com/yongdasoft/budgetfivestruct/blob/master/struct.png?raw=true)
 
